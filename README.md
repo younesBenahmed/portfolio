@@ -2,8 +2,8 @@
 
 > Portfolio personnel d'un étudiant en BUT Informatique passionné par la cybersécurité et les réseaux
 
-[![Deploy Status](https://github.com/younesBenahmed/younes-benahmed-portfolio/workflows/Deploy%20to%20GitHub%20Pages/badge.svg)](https://github.com/younesBenahmed/younes-benahmed-portfolio/actions)
-[![Live Demo](https://img.shields.io/badge/demo-live-brightgreen.svg)](https://younesbenahmed.github.io/younes-benahmed-portfolio/)
+[![Deploy Status](https://github.com/younesBenahmed/portfolio/workflows/Deploy%20to%20GitHub%20Pages/badge.svg)](https://github.com/younesBenahmed/portfolio/actions)
+[![Live Demo](https://img.shields.io/badge/demo-live-brightgreen.svg)](https://younesbenahmed.github.io/portfolio/)
 
 ## 🎯 À propos
 
@@ -30,10 +30,10 @@ Je suis **Younes Benahmed**, étudiant de 19 ans en BUT Informatique à l'IUT Ai
 
 ```bash
 # Cloner le repository
-git clone https://github.com/younesBenahmed/younes-benahmed-portfolio.git
+git clone https://github.com/younesBenahmed/portfolio.git
 
 # Aller dans le dossier
-cd younes-benahmed-portfolio
+cd portfolio
 
 # Installer les dépendances
 npm install
